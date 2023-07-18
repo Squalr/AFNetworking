@@ -1,3 +1,9 @@
+
+CMakeFiles/
+cmake_install.cmake
+Makefile
+libAFNetworking.a
+
 # Xcode
 .DS_Store
 build/
